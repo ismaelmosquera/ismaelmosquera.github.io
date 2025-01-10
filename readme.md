@@ -45,7 +45,6 @@ You also can compute eigenvalues and eigenvectors.
   
 This library written in the Java language has several packages ( IMR stands for Ismael Mosquera Rivera ).  
 Packages in the library:  
-  
 >  
 > - imr.matrix>>
 > - imr.plot  
