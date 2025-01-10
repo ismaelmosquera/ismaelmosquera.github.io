@@ -9,7 +9,8 @@ I have some repositories in GitHub:
 > - [linearsys](https://github.com/ismaelmosquera/linearsys/) Solving Linear Systems With C  
 > - [imrlib](https://github.com/ismaelmosquera/imrlib/) Java IMR-LIB  
 > - [imrsnd](https://github.com/ismaelmosquera/imrsnd/) Sound Programming for Windows With C++  
-> - [mp3transfer](https://github.com/ismaelmosquera/mp3transfer/) Mp3 Transfer With Java >  
+> - [mp3transfer](https://github.com/ismaelmosquera/mp3transfer/) Mp3 Transfer With Java  
+>  
   
 ### *cwmidi*  
   
@@ -17,6 +18,7 @@ I have some repositories in GitHub:
 The code in this repository implements a small MIDI ( Musical Instrument Digital Interface ) subsystem.  
 There are types defined for any MIDI data, support for SMF ( Standard Midi File ) I/O and also a MIDI player  
 capable to reproduce any SMF.  
+There is also a drum machine simulator.  
   
   
 ### *linearsys*  
@@ -24,11 +26,40 @@ capable to reproduce any SMF.
 This small library written in C language has functionality to efficiently solve NxN linear system equations.  
 In addition, there are support to compute the most common operations applied to matrices and vectors,  
 and storage too.  
+Skills to solve linear systems of equations:  
+>  
+> - Cramer's rule.  
+> - Gaussian elimination.  
+>  - LU decomposition.  
+> - QR factorization.  
+>  
+  
+You also can compute eigenvalues and eigenvectors.  
+>  
+> - Find the maximum eigen for a matrix using the Power Method.  
+> - Find the hole eigensystem for a matrix using  the QR Algorithm.  
+>  
   
   
 ### *imrlib*  
   
 This library written in the Java language has several packages ( IMR stands for Ismael Mosquera Rivera ).  
+Packages in the library:  
+  
+>  
+> - imr.matrix>>
+> - imr.plot  
+> - imr.sigslot  
+> - imr.sound  
+> - imr.sound.audio  
+> - imr.sound.audio.analysys  
+> - imr.sound.audio.filter  
+> - imr.sound.audio.synthesis  
+> - imr.sound.audio.window  
+> - imr.sound.midi  
+> - imr.util  
+>  
+  
 The imr.matrix package has functionality like the one in the 'linearsys' already mentioned repository, but this time coded in Java.  
 There are also a little audio and MIDI subsystem with functionality to manage audio and MIDI.  
 It has support to manage audio devices, storage, and additive synthesis and synthesis by modulation etc.  
@@ -60,5 +91,8 @@ GitHub repositories: [github.com/ismaelmosquera](https://github.com/ismaelmosque
     
     Ismael Mosquera Rivera has a degree in Computer Science by Pompeu Fabra University; Barcelona - Spain.  
     He is, currently, interesting in Audio and MIDI programming.  
+  
+You can e-mail me at: ismael.mosquera@gmail.com  
+
     
     
