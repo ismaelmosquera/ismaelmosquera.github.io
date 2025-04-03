@@ -44,13 +44,13 @@ You also can compute eigenvalues and eigenvectors.
 A SVD is as follows:  
 M = UDV^t  
 where  
-> - U is a orthonormal matrix having the left singular vectors of M.  
-> - D ( Sigma ) has the singular values of M.  
+> - U is an orthonormal matrix having the left singular vectors of M.  
+> - D ( Sigma ) has the singular values of M listed in its main diagonal, and the rest of values set to zero.  
 > - V is an orthonormal matrix having the right singular vectors of M.  
 >  
   
 Compute the pseudoinverse of a MxN matrix using SVD.  
-Get the the nearest orthogonal matrix of a NxN ( square ) matrix.  
+Get the nearest orthogonal matrix for a NxN ( square ) matrix.  
   
 ### *imrlib*  
   
