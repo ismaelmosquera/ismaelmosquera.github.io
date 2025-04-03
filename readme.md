@@ -40,18 +40,29 @@ You also can compute eigenvalues and eigenvectors.
 > - Find the hole eigensystem for a matrix using  the QR Algorithm.  
 >  
   
+  Compute SVD ( Singular Value Decomposition ) for a MxN matrix.  
+A SVD is as follows:  
+M = UDV^t  
+where  
+> - U is a orthonormal matrix having the left singular vectors of M.  
+> - D ( Sigma ) has the singular values of M.  
+> - V is an orthonormal matrix having the right singular vectors of M.  
+>  
+  
+Compute the pseudoinverse of a MxN matrix using SVD.  
+Get the the nearest orthogonal matrix of a NxN ( square ) matrix.  
   
 ### *imrlib*  
   
 This library written in the Java language has several packages ( IMR stands for Ismael Mosquera Rivera ).  
 Packages in the library:  
 >  
-> - imr.matrix>>
+> - imr.matrix  
 > - imr.plot  
 > - imr.sigslot  
 > - imr.sound  
 > - imr.sound.audio  
-> - imr.sound.audio.analysys  
+> - imr.sound.audio.analysis  
 > - imr.sound.audio.filter  
 > - imr.sound.audio.synthesis  
 > - imr.sound.audio.window  
