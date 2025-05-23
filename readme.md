@@ -10,6 +10,7 @@ I have some repositories in GitHub:
 > - [imrlib](https://github.com/ismaelmosquera/imrlib/) Java IMR-LIB  
 > - [imrsnd](https://github.com/ismaelmosquera/imrsnd/) Sound Programming for Windows With C++  
 > - [mp3transfer](https://github.com/ismaelmosquera/mp3transfer/) Mp3 Transfer With Java  
+> - [number](https://github.com/ismaelmosquera/number/) A comprehensive set of mathematical functions coded from the scratch.  
 >  
   
 ### *cwmidi*  
@@ -93,6 +94,22 @@ It uses sockets to transfer the audio data.
 The server has a repository with mp3 files and runs listening in an already known port.  
 The server has capability to response to multiple clients concurrently.  
   
+  
+### *number*  
+  
+  
+This repository was created, mainly, for educational pourposes.  
+Actually, it is a representation of the five number sets:  
+>  
+> - Natural ( N ).  
+> - Integer (Z ).  
+> - Rational ( Q ).  
+> - Real ( R ).  
+> - Complex ( C ).  
+>  
+  
+Looking in this repository, you can know how to implement the most used mathematical functions from the scratch.  
+   
 We encourage you to look at the readme files to know more about how to use it.  
   
   
@@ -100,9 +117,10 @@ GitHub repositories: [github.com/ismaelmosquera](https://github.com/ismaelmosque
   
     
     Ismael Mosquera Rivera has a degree in Computer Science by Pompeu Fabra University; Barcelona - Spain.  
-    He is, currently, interesting in Audio and MIDI programming.  
+    He is, currently, interesting in Numerical Analysis, Audio and MIDI programming,.   
   
-You can e-mail me at: ismael.mosquera@gmail.com  
+You can e-mail me at:  
+ismael.mosquera@gmail.com  
 
     
     
