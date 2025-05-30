@@ -11,6 +11,7 @@ I have some repositories in GitHub:
 > - [imrsnd](https://github.com/ismaelmosquera/imrsnd/) Sound Programming for Windows With C++  
 > - [mp3transfer](https://github.com/ismaelmosquera/mp3transfer/) Mp3 Transfer With Java  
 > - [number](https://github.com/ismaelmosquera/number/) A comprehensive set of mathematical functions coded from the scratch.  
+> - [math](https://github.com/ismaelmosquera/math/) math library coded from the scratch by using just pure C code.  
 >  
   
 ### *cwmidi*  
@@ -113,14 +114,21 @@ Looking in this repository, you can know how to implement the most used mathemat
 We encourage you to look at the readme files to know more about how to use it.  
   
   
+### *MATH*  
+  
+  
+Comprehensive math library coded from the scratch using the C programming language.  
+Here, you can find all the functions offerd by, for instance, a math.h C compiler as standard library, but using just pure C code.  
+  
+   
 GitHub repositories: [github.com/ismaelmosquera](https://github.com/ismaelmosquera/)  
   
     
     Ismael Mosquera Rivera has a degree in Computer Science by Pompeu Fabra University; Barcelona - Spain.  
     He is, currently, interesting in Numerical Analysis, Audio and MIDI programming,.   
   
-You can e-mail me at:  
-ismael.mosquera@gmail.com  
+You can e-mail me at: ismael.mosquera@gmail.com  
+  
 
     
     
