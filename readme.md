@@ -12,6 +12,7 @@ I have some repositories in GitHub:
 > - [mp3transfer](https://github.com/ismaelmosquera/mp3transfer/) Mp3 Transfer With Java  
 > - [number](https://github.com/ismaelmosquera/number/) A comprehensive set of mathematical functions coded from the scratch.  
 > - [math](https://github.com/ismaelmosquera/math/) math library coded from the scratch by using just pure C code.  
+> - [graph](https://github.com/ismaelmosquera/graph/) Graph Algorithms with C++.  
 >  
   
 ### *cwmidi*  
@@ -53,6 +54,7 @@ where
   
 Compute the pseudoinverse of a MxN matrix using SVD.  
 Get the nearest orthogonal matrix for a NxN ( square ) matrix.  
+  
   
 ### *imrlib*  
   
@@ -120,7 +122,15 @@ We encourage you to look at the readme files to know more about how to use it.
 Comprehensive math library coded from the scratch using the C programming language.  
 Here, you can find all the functions offerd by, for instance, a math.h C compiler as standard library, but using just pure C code.  
   
-   
+### *Graph Algorithms with C++*  
+  
+Implemented algorithms:  
+>  
+> - Dijkstra: Shortest Path.  
+> - Fleury: Eulerian circuit.  
+> - Roberts and Flores: Hamiltonian Path.  
+>  
+  
 GitHub repositories: [github.com/ismaelmosquera](https://github.com/ismaelmosquera/)  
   
     
