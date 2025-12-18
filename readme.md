@@ -13,6 +13,7 @@ I have some repositories in GitHub:
 > - [number](https://github.com/ismaelmosquera/number/) A comprehensive set of mathematical functions coded from the scratch.  
 > - [math](https://github.com/ismaelmosquera/math/) math library coded from the scratch by using just pure C code.  
 > - [graph](https://github.com/ismaelmosquera/graph/) Graph Algorithms with C++.  
+> - [complex](https://github.com/ismaelmosquera/complex/) Complex C Library.  
 >  
   
 ### *cwmidi*  
@@ -130,6 +131,10 @@ Implemented algorithms:
 > - Fleury: Eulerian circuit.  
 > - Roberts and Flores: Hamiltonian Path.  
 >  
+  
+### *Complex C Library*  
+  
+This library implements functions to efficient computation with complex numbers.  
   
 GitHub repositories: [github.com/ismaelmosquera](https://github.com/ismaelmosquera/)  
   
