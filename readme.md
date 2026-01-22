@@ -27,7 +27,7 @@ There is also a drum machine simulator.
   
 ### *linearsys*  
   
-This small library written in C language has functionality to efficiently solve NxN linear system equations.  
+This library written in C language has functionality to efficiently solve NxN linear system equations.  
 In addition, there are support to compute the most common operations applied to matrices and vectors,  
 and storage too.  
 Skills to solve linear systems of equations:  
@@ -62,7 +62,9 @@ Get the nearest orthogonal matrix for a NxN ( square ) matrix.
 This library written in the Java language has several packages ( IMR stands for Ismael Mosquera Rivera ).  
 Packages in the library:  
 >  
-> - imr.matrix  
+> - imr.math  
+> - imr.math.matrix  
+> - imr.math.polynomial  
 > - imr.plot  
 > - imr.sigslot  
 > - imr.sound  
@@ -73,6 +75,27 @@ Packages in the library:
 > - imr.sound.audio.window  
 > - imr.sound.midi  
 > - imr.util  
+>  
+  
+The imr.math package has several classes like ComplexNumber, RandomNumberGenerator and more.  
+The imr.math.polynomial package has functionallity to deal with polynomials:  
+>  
+> - Arithmetic.  
+> - Derivation and Integration.  
+> - Roots finding.  
+>  
+  
+And some other features like:  
+>  
+> - Lagrange polynomial interpolation.  
+> - Ruffini's rule( polynomial division by a binomial ).  
+>  
+  
+All of them available for any numeric type:  
+>  
+> - Integer.  
+> - Real.  
+> - Complex.  
 >  
   
 The imr.matrix package has functionality like the one in the 'linearsys' already mentioned repository, but this time coded in Java.  
